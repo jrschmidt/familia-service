@@ -1,7 +1,7 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "name": "Familia RESTful API Server",
+  "description": "A RESTful API interface service, deployed to Heroku, connected to the Familia MongoDB database.",
+  "repository": "https://github.com/jrschmidt/familia-service.git",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"

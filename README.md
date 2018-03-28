@@ -1,4 +1,15 @@
-# node-js-getting-started
+# familia-service
+
+## Purpose
+
+This app is intended to be deployed as a Heroku service app to provide a RESTful API interface to a [Familia] MongoDB database.
+
+## Conversion from Demo App
+
+This app was converted from the [Getting Started with Node on Heroku] demo app `node-js-getting-started`.
+
+
+#### Original README text from `node-js-getting-started` demo follows:
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
